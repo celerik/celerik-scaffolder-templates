@@ -1,0 +1,1 @@
+# celerik-scaffolder-templates
