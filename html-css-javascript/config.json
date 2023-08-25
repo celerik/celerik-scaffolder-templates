@@ -1,0 +1,20 @@
+{
+  "variables": [
+    {
+      "name": "{{title}}",
+      "help": "The titlle of the page"
+    },
+    {
+      "name": "{{description}}",
+      "help": "A description to be shown in the page"
+    },
+    {
+      "name": "{{class}}",
+      "help": "The main class name"
+    },
+    {
+      "name": "{{msg}}",
+      "help": "A message to be shown in the page",
+    }
+  ]
+}
